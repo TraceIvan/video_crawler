@@ -1,0 +1,2 @@
+# video_crawler
+基于scrapy框架，借助B站对外开放的API来采集同IMDB电影相关的短视频数据。
